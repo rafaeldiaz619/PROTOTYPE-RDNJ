@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: bb5626afe7e354b58895663800e166af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 631246051137590765
+    second: Gr1_Idle_0
+  - first:
+      213: 3804526898078638297
+    second: Gr1_Idle_1
+  - first:
+      213: 6333579033056189778
+    second: Gr1_Idle_2
+  - first:
+      213: 3373887042349132810
+    second: Gr1_Idle_3
+  - first:
+      213: -5070739030759647452
+    second: Gr1_Idle_4
+  - first:
+      213: 5094443836919388539
+    second: Gr1_Idle_5
+  - first:
+      213: 3996516992623882473
+    second: Gr1_Idle_6
+  - first:
+      213: -6538409068906215210
+    second: Gr1_Idle_7
+  - first:
+      213: -9077060934885155805
+    second: Gr1_Idle_8
+  - first:
+      213: -1697031176553914327
+    second: Gr1_Idle_9
+  - first:
+      213: 6035632638585004951
+    second: Gr1_Idle_10
+  - first:
+      213: -5753310551536225907
+    second: Gr1_Idle_11
+  - first:
+      213: -5979267951934207306
+    second: Gr1_Idle_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gr1_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de59ce360f2a2c800800000000000000
+      internalID: 631246051137590765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0656a7e056cc430800000000000000
+      internalID: 3804526898078638297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 9
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d1d26e29465e750800000000000000
+      internalID: 6333579033056189778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 9
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c638fa36472de20800000000000000
+      internalID: 3373887042349132810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427dcdaa7bd11a9b0800000000000000
+      internalID: -5070739030759647452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7912cb9da913b640800000000000000
+      internalID: 5094443836919388539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0b824c70b767730800000000000000
+      internalID: 3996516992623882473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 9
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d807a30897e245a0800000000000000
+      internalID: -6538409068906215210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 9
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c589b0c2dc70280800000000000000
+      internalID: -9077060934885155805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 9
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920adbcd22fe278e0800000000000000
+      internalID: -1697031176553914327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 9
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793ec9918efd2c350800000000000000
+      internalID: 6035632638585004951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 9
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d813d2529822820b0800000000000000
+      internalID: -5753310551536225907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gr1_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 9
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba851c2a7f550da0800000000000000
+      internalID: -5979267951934207306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gr1_Idle_0: 631246051137590765
+      Gr1_Idle_1: 3804526898078638297
+      Gr1_Idle_10: 6035632638585004951
+      Gr1_Idle_11: -5753310551536225907
+      Gr1_Idle_12: -5979267951934207306
+      Gr1_Idle_2: 6333579033056189778
+      Gr1_Idle_3: 3373887042349132810
+      Gr1_Idle_4: -5070739030759647452
+      Gr1_Idle_5: 5094443836919388539
+      Gr1_Idle_6: 3996516992623882473
+      Gr1_Idle_7: -6538409068906215210
+      Gr1_Idle_8: -9077060934885155805
+      Gr1_Idle_9: -1697031176553914327
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
